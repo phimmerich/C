@@ -1,1 +1,6 @@
 /TDMS2Sun/.vs/TDMS2Sun/v17/*
+**/.vs/
+*.suo
+*.user
+*.ipch
+*.VC.db
