@@ -1,0 +1,200 @@
+Microsoft (R) COFF/PE Dumper Version 14.43.34810.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Dump of file nilibddc.dll
+
+File Type: DLL
+
+  Section contains the following exports for nilibddc.dll
+
+    00000000 characteristics
+    4B6374E6 time date stamp Fri Jan 29 15:53:10 2010
+        0.00 version
+           1 ordinal base
+         172 number of functions
+         172 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000024F0 DDC_AddChannel
+          2    1 00002230 DDC_AddChannelGroup
+          3    2 00006AB0 DDC_AppendDataValues
+          4    3 00006B00 DDC_AppendDataValuesDouble
+          5    4 00006AF0 DDC_AppendDataValuesFloat
+          6    5 00006AD0 DDC_AppendDataValuesInt16
+          7    6 00006AE0 DDC_AppendDataValuesInt32
+          8    7 00006B10 DDC_AppendDataValuesString
+          9    8 00006B20 DDC_AppendDataValuesTimestamp
+         10    9 000062E0 DDC_AppendDataValuesTimestampComponents
+         11    A 00006AC0 DDC_AppendDataValuesUInt8
+         12    B 00004320 DDC_ChannelGroupPropertyExists
+         13    C 00004790 DDC_ChannelPropertyExists
+         14    D 00002ED0 DDC_CloseChannel
+         15    E 00002DA0 DDC_CloseChannelGroup
+         16    F 00002A10 DDC_CloseFile
+         17   10 00007D30 DDC_CreateChannelCustomPropertyV
+         18   11 00007740 DDC_CreateChannelGroupCustomPropertyV
+         19   12 000077D0 DDC_CreateChannelGroupProperty
+         20   13 00007840 DDC_CreateChannelGroupPropertyDouble
+         21   14 00007820 DDC_CreateChannelGroupPropertyFloat
+         22   15 00007800 DDC_CreateChannelGroupPropertyInt16
+         23   16 00007810 DDC_CreateChannelGroupPropertyInt32
+         24   17 00007860 DDC_CreateChannelGroupPropertyString
+         25   18 00007870 DDC_CreateChannelGroupPropertyTimestamp
+         26   19 000087C0 DDC_CreateChannelGroupPropertyTimestampComponents
+         27   1A 000077F0 DDC_CreateChannelGroupPropertyUInt8
+         28   1B 00007740 DDC_CreateChannelGroupPropertyV
+         29   1C 00007DC0 DDC_CreateChannelProperty
+         30   1D 00007E30 DDC_CreateChannelPropertyDouble
+         31   1E 00007E10 DDC_CreateChannelPropertyFloat
+         32   1F 00007DF0 DDC_CreateChannelPropertyInt16
+         33   20 00007E00 DDC_CreateChannelPropertyInt32
+         34   21 00007E50 DDC_CreateChannelPropertyString
+         35   22 00007E60 DDC_CreateChannelPropertyTimestamp
+         36   23 000089C0 DDC_CreateChannelPropertyTimestampComponents
+         37   24 00007DE0 DDC_CreateChannelPropertyUInt8
+         38   25 00007D30 DDC_CreateChannelPropertyV
+         39   26 000099E0 DDC_CreateFile
+         40   27 00007150 DDC_CreateFileCustomPropertyV
+         41   28 000071E0 DDC_CreateFileProperty
+         42   29 00007250 DDC_CreateFilePropertyDouble
+         43   2A 00007230 DDC_CreateFilePropertyFloat
+         44   2B 00007210 DDC_CreateFilePropertyInt16
+         45   2C 00007220 DDC_CreateFilePropertyInt32
+         46   2D 00007270 DDC_CreateFilePropertyString
+         47   2E 00007280 DDC_CreateFilePropertyTimestamp
+         48   2F 000085C0 DDC_CreateFilePropertyTimestampComponents
+         49   30 00007200 DDC_CreateFilePropertyUInt8
+         50   31 00007150 DDC_CreateFilePropertyV
+         51   32 0000C8C0 DDC_ExecuteChannelGroupQueryExpression
+         52   33 0000C960 DDC_ExecuteChannelQueryExpression
+         53   34 00003EB0 DDC_FilePropertyExists
+         54   35 00001260 DDC_FreeMemory
+         55   36 00007350 DDC_GetChannelGroupProperty
+         56   37 000073F0 DDC_GetChannelGroupPropertyDouble
+         57   38 000073D0 DDC_GetChannelGroupPropertyFloat
+         58   39 00007390 DDC_GetChannelGroupPropertyInt16
+         59   3A 000073B0 DDC_GetChannelGroupPropertyInt32
+         60   3B 0000FCA0 DDC_GetChannelGroupPropertyNameFromIndex
+         61   3C 0000FF20 DDC_GetChannelGroupPropertyNameLengthFromIndex
+         62   3D 0000F920 DDC_GetChannelGroupPropertyNames
+         63   3E 00007410 DDC_GetChannelGroupPropertyString
+         64   3F 00007430 DDC_GetChannelGroupPropertyTimestamp
+         65   40 00007450 DDC_GetChannelGroupPropertyTimestampComponents
+         66   41 000043E0 DDC_GetChannelGroupPropertyType
+         67   42 00007370 DDC_GetChannelGroupPropertyUInt8
+         68   43 00004150 DDC_GetChannelGroupStringPropertyLength
+         69   44 0000AAE0 DDC_GetChannelGroups
+         70   45 00007940 DDC_GetChannelProperty
+         71   46 000079E0 DDC_GetChannelPropertyDouble
+         72   47 000079C0 DDC_GetChannelPropertyFloat
+         73   48 00007980 DDC_GetChannelPropertyInt16
+         74   49 000079A0 DDC_GetChannelPropertyInt32
+         75   4A 000106C0 DDC_GetChannelPropertyNameFromIndex
+         76   4B 00010940 DDC_GetChannelPropertyNameLengthFromIndex
+         77   4C 00010340 DDC_GetChannelPropertyNames
+         78   4D 00007A00 DDC_GetChannelPropertyString
+         79   4E 00007A20 DDC_GetChannelPropertyTimestamp
+         80   4F 00007A40 DDC_GetChannelPropertyTimestampComponents
+         81   50 00004850 DDC_GetChannelPropertyType
+         82   51 00007960 DDC_GetChannelPropertyUInt8
+         83   52 000045C0 DDC_GetChannelStringPropertyLength
+         84   53 0000AFA0 DDC_GetChannels
+         85   54 00003B60 DDC_GetDataType
+         86   55 000036F0 DDC_GetDataValues
+         87   56 00003B00 DDC_GetDataValuesDouble
+         88   57 00003AE0 DDC_GetDataValuesFloat
+         89   58 00003AA0 DDC_GetDataValuesInt16
+         90   59 00003AC0 DDC_GetDataValuesInt32
+         91   5A 00003B20 DDC_GetDataValuesString
+         92   5B 00003B40 DDC_GetDataValuesTimestamp
+         93   5C 00003710 DDC_GetDataValuesTimestampComponents
+         94   5D 00003A80 DDC_GetDataValuesUInt8
+         95   5E 00006D60 DDC_GetFileProperty
+         96   5F 00006E00 DDC_GetFilePropertyDouble
+         97   60 00006DE0 DDC_GetFilePropertyFloat
+         98   61 00006DA0 DDC_GetFilePropertyInt16
+         99   62 00006DC0 DDC_GetFilePropertyInt32
+        100   63 0000F280 DDC_GetFilePropertyNameFromIndex
+        101   64 0000F500 DDC_GetFilePropertyNameLengthFromIndex
+        102   65 0000EF00 DDC_GetFilePropertyNames
+        103   66 00006E20 DDC_GetFilePropertyString
+        104   67 00006E40 DDC_GetFilePropertyTimestamp
+        105   68 00006E60 DDC_GetFilePropertyTimestampComponents
+        106   69 00003F70 DDC_GetFilePropertyType
+        107   6A 00006D80 DDC_GetFilePropertyUInt8
+        108   6B 00003CE0 DDC_GetFileStringPropertyLength
+        109   6C 000012A0 DDC_GetLibraryErrorDescription
+        110   6D 0000F750 DDC_GetNumChannelGroupProperties
+        111   6E 00003000 DDC_GetNumChannelGroups
+        112   6F 00010170 DDC_GetNumChannelProperties
+        113   70 000031A0 DDC_GetNumChannels
+        114   71 00003340 DDC_GetNumDataValues
+        115   72 0000ED30 DDC_GetNumFileProperties
+        116   73 0000CB10 DDC_MergeChannelGroupQueryResults
+        117   74 0000DBF0 DDC_MergeChannelQueryResults
+        118   75 00009F20 DDC_OpenFile
+        119   76 00009D50 DDC_OpenFileEx
+        120   77 0000C530 DDC_QueryChannelGroups
+        121   78 0000C6C0 DDC_QueryChannels
+        122   79 00002C70 DDC_RemoveChannel
+        123   7A 00002B40 DDC_RemoveChannelGroup
+        124   7B 00006BD0 DDC_ReplaceDataValues
+        125   7C 00006C70 DDC_ReplaceDataValuesDouble
+        126   7D 00006C50 DDC_ReplaceDataValuesFloat
+        127   7E 00006C10 DDC_ReplaceDataValuesInt16
+        128   7F 00006C30 DDC_ReplaceDataValuesInt32
+        129   80 00006C90 DDC_ReplaceDataValuesString
+        130   81 00006CB0 DDC_ReplaceDataValuesTimestamp
+        131   82 000065E0 DDC_ReplaceDataValuesTimestampComponents
+        132   83 00006BF0 DDC_ReplaceDataValuesUInt8
+        133   84 000028E0 DDC_SaveFile
+        134   85 000075D0 DDC_SetChannelGroupProperty
+        135   86 000076D0 DDC_SetChannelGroupPropertyDouble
+        136   87 000076B0 DDC_SetChannelGroupPropertyFloat
+        137   88 00007690 DDC_SetChannelGroupPropertyInt16
+        138   89 000076A0 DDC_SetChannelGroupPropertyInt32
+        139   8A 000076F0 DDC_SetChannelGroupPropertyString
+        140   8B 00007700 DDC_SetChannelGroupPropertyTimestamp
+        141   8C 000086C0 DDC_SetChannelGroupPropertyTimestampComponents
+        142   8D 00007680 DDC_SetChannelGroupPropertyUInt8
+        143   8E 00007540 DDC_SetChannelGroupPropertyV
+        144   8F 00007BC0 DDC_SetChannelProperty
+        145   90 00007CC0 DDC_SetChannelPropertyDouble
+        146   91 00007CA0 DDC_SetChannelPropertyFloat
+        147   92 00007C80 DDC_SetChannelPropertyInt16
+        148   93 00007C90 DDC_SetChannelPropertyInt32
+        149   94 00007CE0 DDC_SetChannelPropertyString
+        150   95 00007CF0 DDC_SetChannelPropertyTimestamp
+        151   96 000088C0 DDC_SetChannelPropertyTimestampComponents
+        152   97 00007C70 DDC_SetChannelPropertyUInt8
+        153   98 00007B30 DDC_SetChannelPropertyV
+        154   99 00006990 DDC_SetDataValues
+        155   9A 000069E0 DDC_SetDataValuesDouble
+        156   9B 000069D0 DDC_SetDataValuesFloat
+        157   9C 000069B0 DDC_SetDataValuesInt16
+        158   9D 000069C0 DDC_SetDataValuesInt32
+        159   9E 000069F0 DDC_SetDataValuesString
+        160   9F 00006A00 DDC_SetDataValuesTimestamp
+        161   A0 00005FE0 DDC_SetDataValuesTimestampComponents
+        162   A1 000069A0 DDC_SetDataValuesUInt8
+        163   A2 00006FE0 DDC_SetFileProperty
+        164   A3 000070E0 DDC_SetFilePropertyDouble
+        165   A4 000070C0 DDC_SetFilePropertyFloat
+        166   A5 000070A0 DDC_SetFilePropertyInt16
+        167   A6 000070B0 DDC_SetFilePropertyInt32
+        168   A7 00007100 DDC_SetFilePropertyString
+        169   A8 00007110 DDC_SetFilePropertyTimestamp
+        170   A9 000084C0 DDC_SetFilePropertyTimestampComponents
+        171   AA 00007090 DDC_SetFilePropertyUInt8
+        172   AB 00006F50 DDC_SetFilePropertyV
+
+  Summary
+
+        1000 .data
+        3000 .pdata
+        D000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       1D000 .text

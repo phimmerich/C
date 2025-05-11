@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Debug TDMS2Sun",
+      "type": "cppvsdbg",
+      "request": "launch",
+      "program": "${workspaceFolder}/tdms2sun.exe",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "${workspaceFolder}",
+      "environment": [],
+      "console": "externalTerminal"
+    }
+  ]
+}

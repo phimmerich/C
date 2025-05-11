@@ -1,0 +1,22 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Build TDMS2Sun",
+      "type": "shell",
+      "command": "cl.exe",
+      "args": [
+        "/Zi", "/EHsc",
+        "main.c",
+        "nilibddc.lib",
+        "SunAcc42.lib",
+        "/Fe:tdms2sun.exe"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "problemMatcher": ["$msCompile"]
+    }
+  ]
+}

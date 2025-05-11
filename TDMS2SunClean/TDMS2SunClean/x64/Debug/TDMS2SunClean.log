@@ -1,0 +1,14 @@
+﻿  main.c
+C:\Git\C\TDMS2SunClean\main.c(45,12): warning C4566: character represented by universal-character-name '\U0001F50E' cannot be represented in the current code page (1252)
+C:\Git\C\TDMS2SunClean\main.c(57,12): warning C4566: character represented by universal-character-name '\U0001F50E' cannot be represented in the current code page (1252)
+C:\Git\C\TDMS2SunClean\main.c(58,70): warning C4047: 'function': 'DDCFileHandle *' differs in levels of indirection from 'DDCFileHandle **'
+C:\Git\C\TDMS2SunClean\main.c(58,70): warning C4024: 'DDC_OpenFileEx': different types for formal and actual parameter 4
+C:\Git\C\TDMS2SunClean\main.c(69,12): warning C4566: character represented by universal-character-name '\U0001F4C2' cannot be represented in the current code page (1252)
+C:\Git\C\TDMS2SunClean\main.c(75,16): warning C4566: character represented by universal-character-name '\u26A1' cannot be represented in the current code page (1252)
+C:\Git\C\TDMS2SunClean\main.c(76,16): warning C4566: character represented by universal-character-name '\u27A1' cannot be represented in the current code page (1252)
+C:\Git\C\TDMS2SunClean\main.c(76,16): warning C4566: character represented by universal-character-name '\uFE0F' cannot be represented in the current code page (1252)
+C:\Git\C\TDMS2SunClean\main.c(82,20): warning C4566: character represented by universal-character-name '\u274C' cannot be represented in the current code page (1252)
+C:\Git\C\TDMS2SunClean\main.c(87,12): warning C4566: character represented by universal-character-name '\u2705' cannot be represented in the current code page (1252)
+C:\Git\C\TDMS2SunClean\main.c(89,5): warning C4566: character represented by universal-character-name '\u274C' cannot be represented in the current code page (1252)
+C:\Git\C\TDMS2SunClean\main.c(91,12): warning C4566: character represented by universal-character-name '\u2705' cannot be represented in the current code page (1252)
+  TDMS2SunClean.vcxproj -> C:\Git\C\TDMS2SunClean\x64\Debug\TDMS2SunClean.exe

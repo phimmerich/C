@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Git\C\TDMS2Sun\main.c(77,16): warning C4013: '_stricmp' undefined; assuming extern returning int
+C:\Git\C\TDMS2Sun\main.c(80,16): warning C4013: 'strcpy_s' undefined; assuming extern returning int
+  TDMS2Sun.vcxproj -> C:\Git\C\TDMS2Sun\x64\Debug\TDMS2Sun.exe

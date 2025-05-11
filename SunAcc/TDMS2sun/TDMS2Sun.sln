@@ -1,0 +1,18 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TDMS2Sun", "TDMS2Sun\TDMS2Sun.vcxproj", "{9A59A4A1-6C48-4C92-A3B6-60D2B6C5A6E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A59A4A1-6C48-4C92-A3B6-60D2B6C5A6E7}.Debug|x64.ActiveCfg = Debug|x64
+		{9A59A4A1-6C48-4C92-A3B6-60D2B6C5A6E7}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

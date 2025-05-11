@@ -1,0 +1,248 @@
+﻿  main.c
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(61,13): warning C4005: 'CBASED': macro redefinition
+  (compiling source file 'main.c')
+      C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\main.c(1,9):
+      see previous definition of 'CBASED'
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(62,13): warning C4005: 'CALLCONV': macro redefinition
+  (compiling source file 'main.c')
+      C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\main.c(2,9):
+      see previous definition of 'CALLCONV'
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(172,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(193,18): error C2079: 'blkBaseGMT' uses undefined struct 'TimeTag'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(211,18): error C2079: 'blkBaseGMT' uses undefined struct 'TimeTag'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(228,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(238,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(254,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(266,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(290,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(317,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(349,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(380,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(403,18): error C2079: 'refGMT' uses undefined struct 'TimeTag'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(409,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(433,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(434,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(435,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(439,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(441,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(442,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(443,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(446,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(447,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(448,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(451,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(452,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(453,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(454,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(457,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(460,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(461,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(464,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(465,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(468,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(469,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(472,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(475,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(476,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(479,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(482,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(483,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(486,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(487,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(491,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(492,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(495,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(496,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(497,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(498,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(499,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(500,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(501,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(502,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(503,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(504,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(505,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(585,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(588,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(591,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(594,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(597,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(600,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(601,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(604,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(607,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(613,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(616,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(617,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(620,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(623,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(624,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(625,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(626,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(627,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(628,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(629,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(630,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\SunAcc42.h(631,1): error C2059: syntax error: 'string'
+  (compiling source file 'main.c')
+  
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\main.c(68,26): warning C4013: 'createSunFile' undefined; assuming extern returning int
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\main.c(70,58): warning C4013: 'wrtStatus' undefined; assuming extern returning int
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\main.c(74,5): warning C4013: 'setCommentText' undefined; assuming extern returning int
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\main.c(77,5): warning C4013: 'addSunParm' undefined; assuming extern returning int
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\main.c(80,5): warning C4013: 'closeSunFile' undefined; assuming extern returning int
+C:\Git\C\SunAcc\TDMS2sun\TDMS2Sun\main.c(68,20): warning C4047: 'initializing': 'SunWrt *' differs in levels of indirection from 'int'
